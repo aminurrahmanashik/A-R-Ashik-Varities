@@ -1,0 +1,8 @@
+Increasingly, quantitative hedge funds and asset managers will trade algorithmically, 
+with computers designed to scan the internet for news stories and interpret whether 
+news reports contain any useful information which would allow a revision of probabilistic
+ beliefs (we have already seen an example of this with the Monty Hall problem, 
+and will formally consider ‘Bayesian updating’ in week 2). Here, the demand for 
+‘tough Brexit negotiations’ by the then French President would be interpreted as 
+being bad for the UK, which would lead to a further depreciation in the pound sterling.
+
